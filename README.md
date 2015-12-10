@@ -1,1 +1,1 @@
-# FamoiWhitepaper
+# Famoi Whitepaper
