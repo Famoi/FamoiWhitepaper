@@ -30,7 +30,7 @@
    * [Food and Agriculture](FOOD_AND_AGRICULTURE.md)
    * [Valuable Assets](VALUABLE_ASSETS.md)
    * [Precious Metals](PRECIOUS_METALS.md)
-   * Pharmaceuticals
+   * [Pharmaceuticals](PHARMACEUTICALS.md)
    * Genomics
 * Conclusion
 * Acknowledgements
