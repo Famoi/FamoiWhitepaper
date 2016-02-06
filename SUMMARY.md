@@ -29,7 +29,7 @@
 * [Adoption: Use cases](ADOPTION_USE_CASES.md)
    * [Food and Agriculture](FOOD_AND_AGRICULTURE.md)
    * [Valuable Assets](VALUABLE_ASSETS.md)
-   * Precious Metals
+   * [Precious Metals](PRECIOUS_METALS.md)
    * Pharmaceuticals
    * Genomics
 * Conclusion
