@@ -23,7 +23,7 @@
    * [Realtime updates](REALTIME_UPDATES.md)
    * [Asset Explorer](ASSET_EXPLORER.md)
 * [Gamification: Reputation](GAMIFICATION_REPUTATION.md)
-   * Leaderboards
+   * [Leaderboards](LEADERBOARDS.md)
    * Rewards
    * Penalties
 * Adoption: Use cases
