@@ -31,7 +31,7 @@
    * [Valuable Assets](VALUABLE_ASSETS.md)
    * [Precious Metals](PRECIOUS_METALS.md)
    * [Pharmaceuticals](PHARMACEUTICALS.md)
-   * Genomics
+   * [Genomics](GENOMICS.md)
 * Conclusion
 * Acknowledgements
 * Bibliography
