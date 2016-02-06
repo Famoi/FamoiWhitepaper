@@ -1,4 +1,4 @@
-# Famoi Whitepaper: 
+# Famoi Whitepaper 
 
 **Famoi:** A decentralised platform for recording and certifying asset or inventory provenance
 
