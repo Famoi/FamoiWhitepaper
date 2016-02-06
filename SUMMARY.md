@@ -27,7 +27,7 @@
    * Rewards
    * Penalties
 * Adoption: Use cases
-   * Agriculture
+   * Food and Agriculture
    * Luxury Assets
    * Precious Metals
    * Pharmaceuticals
