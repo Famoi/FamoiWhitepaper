@@ -15,5 +15,5 @@
    * [Asset Provenance](ASSET_PROVENANCE.md)
 * [Before Certification: Execution](BEFORE_CERTIFICATION_EXECUTION.md)
    * [Supply Chain Transactions](SUPPLY_CHAIN_TRANSACTIONS.md)
-   * Other Transactions
+   * [Other Transactions](OTHER_TRANSACTIONS.md)
 
