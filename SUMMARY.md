@@ -34,5 +34,5 @@
    * [Genomics](GENOMICS.md)
 * [Conclusion](CONCLUSION.md)
 * [Acknowledgements](ACKNOWLEDGEMENT.md)
-* Bibliography
+* [Bibliography](BIBLIOGRAPHY.md)
 
