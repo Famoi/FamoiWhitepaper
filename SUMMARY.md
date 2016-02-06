@@ -28,7 +28,7 @@
    * [Penalties](PENALTIES.md)
 * [Adoption: Use cases](ADOPTION_USE_CASES.md)
    * [Food and Agriculture](FOOD_AND_AGRICULTURE.md)
-   * [Luxury Assets](valuable_assets.md)
+   * [Valuable Assets](VALUABLE_ASSETS.md)
    * Precious Metals
    * Pharmaceuticals
    * Genomics
