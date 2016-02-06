@@ -24,4 +24,5 @@
    * Asset Explorer
 * Gamification: Reputation
    * Leaderboards
+   * Rewards
 
