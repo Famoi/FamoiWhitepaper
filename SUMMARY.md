@@ -16,5 +16,5 @@
 * [Before Certification: Execution](BEFORE_CERTIFICATION_EXECUTION.md)
    * [Supply Chain Transactions](SUPPLY_CHAIN_TRANSACTIONS.md)
    * [Other Transactions](OTHER_TRANSACTIONS.md)
-* After Certification: Management
+* [After Certification: Management](AFTER_CERTIFICATION_MANAGEMENT.md)
 
