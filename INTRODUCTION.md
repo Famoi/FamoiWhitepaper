@@ -21,4 +21,4 @@ Reducing costs and making it easier to track and protect assets or inventory. As
 ###Motivation
 Industrial revolution 4.0 and the ever growing Internet of Things space is certainly one key motivator behind Famoi.
 
-Enterprise systems that can be easily harnessed. That also have great speed, accuracy and security will be become more and more important. As well as systems that allow customers to gain greater end-user transparency with the production that they buy into. 
+Enterprise systems that can be easily harnessed and integrated into existing legacy systems. Which must allow these enterprises to seamlessly transition and evolve into the distributed and decentralised system market. That also have great speed, accuracy and security will be become more and more important. As well as systems that allow customers to gain greater end-user transparency with the production that they buy into. 
