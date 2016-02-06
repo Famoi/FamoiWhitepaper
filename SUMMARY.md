@@ -8,5 +8,5 @@
    * [Market](MARKET.md)
    * [Strategy](STRATEGY.md)
    * [Tokens](TOKENS.md)
-* Asset Creation: Linking Provenance
+* [Asset Creation: Linking Provenance](ASSET_CREATION_LINKING_PROVENANCE.md)
 
