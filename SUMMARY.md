@@ -31,4 +31,5 @@
    * Luxury Assets
    * Precious Metals
    * Pharmaceuticals
+   * Genomics
 
