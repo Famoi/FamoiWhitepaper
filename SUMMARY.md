@@ -5,5 +5,5 @@
    * [Motivation](MOTIVATION.md)
    * [Why Decentralisation?](WHY_DECENTRALISATION.md)
    * [Structure](STRUCTURE.md)
-   * Eco-System
+   * [Eco-System](ECO-SYSTEM.md)
 
