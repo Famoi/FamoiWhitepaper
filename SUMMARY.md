@@ -13,5 +13,5 @@
    * [Select Smart Contract](SELECT_SMART_CONTRACT.md)
    * [Asset Documents](ASSET_DOCUMENTS.md)
    * [Asset Provenance](ASSET_PROVENANCE.md)
-* Before Certification: Execution
+* [Before Certification: Execution](BEFORE_CERTIFICATION_EXECUTION.md)
 
