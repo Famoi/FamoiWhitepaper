@@ -6,5 +6,5 @@
    * [Structure](STRUCTURE.md)
    * [Problem](PROBLEM.md)
    * [Market](MARKET.md)
-   * Strategy
+   * [Strategy](STRATEGY.md)
 
