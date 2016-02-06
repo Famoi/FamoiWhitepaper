@@ -1,4 +1,4 @@
 # Summary
 
-* [Whitepaper](INTRODUCTION.md)
+* [Introduction](WHITEPAPER.md)
 
