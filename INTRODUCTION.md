@@ -13,7 +13,12 @@ That records and certifies the provenance of an asset both in real time immutabl
 
 These require a more secure and permanent way of storing official documents. As well as authenticating the  provenance and the individual proof-of-authenticity and origin of an asset. 
 
-###Motivation
-Our motivation is to record the world's assets and inventory on to the Ethereum block chain making it easier to prove their authenticity and provenance.
+###Our Goal
+Our goal is to record the world's assets and inventory on to the Ethereum block chain making it easier to prove their authenticity and provenance.
 
 Reducing costs and making it easier to track and protect assets or inventory. As well as paying providers in real-time throughout their journey in the supply chains life-cycle.
+
+###Motivation
+Industrial revolution 4.0 and the ever growing Internet of Things space is certainly one key motivator behind Famoi.
+
+Enterprise systems that can be easily harnessed. That also have great speed, accuracy and security will be become more and more important. As well as systems that allow customers to gain greater end-user transparency with the production that they buy into. 
