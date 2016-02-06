@@ -34,4 +34,5 @@
    * Genomics
 * Conclusion
 * Acknowledgements
+* Bibliography
 
