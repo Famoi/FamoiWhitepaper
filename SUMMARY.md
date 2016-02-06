@@ -20,5 +20,4 @@
 * [After Certification: Management](AFTER_CERTIFICATION_MANAGEMENT.md)
    * [Asset Certificates](ASSET_CERTIFICATES.md)
    * [Supply Chain Tracking](SUPPLY_CHAIN_TRACKING.md)
-* Realtime updates
 
