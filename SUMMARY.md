@@ -26,7 +26,7 @@
    * [Leaderboards](LEADERBOARDS.md)
    * [Rewards](REWARDS.md)
    * [Penalties](PENALTIES.md)
-* Adoption: Use cases
+* [Adoption: Use cases](ADOPTION_USE_CASES.md)
    * Food and Agriculture
    * Luxury Assets
    * Precious Metals
