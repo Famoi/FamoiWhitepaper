@@ -27,7 +27,7 @@
    * [Rewards](REWARDS.md)
    * [Penalties](PENALTIES.md)
 * [Adoption: Use cases](ADOPTION_USE_CASES.md)
-   * Food and Agriculture
+   * [Food and Agriculture](FOOD_AND_AGRICULTURE.md)
    * Luxury Assets
    * Precious Metals
    * Pharmaceuticals
