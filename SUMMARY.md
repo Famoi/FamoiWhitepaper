@@ -8,7 +8,6 @@
    * [Problem](PROBLEM.md)
    * [Market](MARKET.md)
    * [Strategy](STRATEGY.md)
-   * [Tokens](TOKENS.md)
 * [Asset Creation: Linking Provenance](ASSET_CREATION_LINKING_PROVENANCE.md)
    * [Create Asset](CREATE_ASSET.md)
    * [Select Smart Contract](SELECT_SMART_CONTRACT.md)
