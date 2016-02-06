@@ -21,7 +21,7 @@
    * [Asset Certificates](ASSET_CERTIFICATES.md)
    * [Supply Chain Tracking](SUPPLY_CHAIN_TRACKING.md)
    * [Realtime updates](REALTIME_UPDATES.md)
-   * Asset Explorer
+   * [Asset Explorer](ASSET_EXPLORER.md)
 * Gamification: Reputation
    * Leaderboards
    * Rewards
