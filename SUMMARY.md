@@ -9,4 +9,5 @@
    * [Strategy](STRATEGY.md)
    * [Tokens](TOKENS.md)
 * [Asset Creation: Linking Provenance](ASSET_CREATION_LINKING_PROVENANCE.md)
+   * Create Asset
 
