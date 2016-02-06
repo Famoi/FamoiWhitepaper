@@ -1,4 +1,4 @@
 # Summary
 
-* [Introduction](abstract.md)
+* [Whitepaper](INTRODUCTION.md)
 
