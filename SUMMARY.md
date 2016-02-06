@@ -1,7 +1,7 @@
 # Summary
 
 * [Abstract](README.md)
-* Abstract
+* [Abstract](ABSTRACT.md)
 * [Introduction](INTRODUCTION.md)
    * [Why Decentralisation?](WHY_DECENTRALISATION.md)
    * [Structure](STRUCTURE.md)
