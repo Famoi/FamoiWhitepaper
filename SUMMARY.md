@@ -25,4 +25,5 @@
 * Gamification: Reputation
    * Leaderboards
    * Rewards
+   * Penalties
 
