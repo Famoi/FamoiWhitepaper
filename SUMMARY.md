@@ -26,4 +26,5 @@
    * Leaderboards
    * Rewards
    * Penalties
+* Adoption: Use cases 
 
