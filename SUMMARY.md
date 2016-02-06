@@ -28,4 +28,5 @@
    * Penalties
 * Adoption: Use cases
    * Agriculture
+   * Luxury Assets
 
