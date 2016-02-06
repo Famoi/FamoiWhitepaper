@@ -25,7 +25,7 @@
 * [Gamification: Reputation](GAMIFICATION_REPUTATION.md)
    * [Leaderboards](LEADERBOARDS.md)
    * [Rewards](REWARDS.md)
-   * Penalties
+   * [Penalties](PENALTIES.md)
 * Adoption: Use cases
    * Food and Agriculture
    * Luxury Assets
