@@ -17,4 +17,5 @@
    * [Supply Chain Transactions](SUPPLY_CHAIN_TRANSACTIONS.md)
    * [Other Transactions](OTHER_TRANSACTIONS.md)
 * [After Certification: Management](AFTER_CERTIFICATION_MANAGEMENT.md)
+   * Asset Certificates
 
