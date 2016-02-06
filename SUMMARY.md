@@ -26,5 +26,6 @@
    * Leaderboards
    * Rewards
    * Penalties
-* Adoption: Use cases 
+* Adoption: Use cases
+   * Agriculture
 
