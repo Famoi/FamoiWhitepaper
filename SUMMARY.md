@@ -30,4 +30,5 @@
    * Agriculture
    * Luxury Assets
    * Precious Metals
+   * Pharmaceuticals
 
