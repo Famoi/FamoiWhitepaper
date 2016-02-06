@@ -32,4 +32,5 @@
    * Precious Metals
    * Pharmaceuticals
    * Genomics
+* Conclusion
 
