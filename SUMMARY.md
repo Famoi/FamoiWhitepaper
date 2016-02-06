@@ -1,6 +1,7 @@
 # Summary
 
 * [Abstract](README.md)
+   * Asset Creation: Linking Provenance
 * [Introduction](INTRODUCTION.md)
    * [Why Decentralisation?](WHY_DECENTRALISATION.md)
    * [Structure](STRUCTURE.md)
