@@ -22,7 +22,7 @@
    * [Supply Chain Tracking](SUPPLY_CHAIN_TRACKING.md)
    * [Realtime updates](REALTIME_UPDATES.md)
    * [Asset Explorer](ASSET_EXPLORER.md)
-* Gamification: Reputation
+* [Gamification: Reputation](GAMIFICATION_REPUTATION.md)
    * Leaderboards
    * Rewards
    * Penalties
