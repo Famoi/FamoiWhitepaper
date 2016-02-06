@@ -5,4 +5,5 @@
    * [Why Decentralisation?](WHY_DECENTRALISATION.md)
    * [Structure](STRUCTURE.md)
    * [Problem](PROBLEM.md)
+   * Market
 
