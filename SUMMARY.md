@@ -32,7 +32,7 @@
    * [Precious Metals](PRECIOUS_METALS.md)
    * [Pharmaceuticals](PHARMACEUTICALS.md)
    * [Genomics](GENOMICS.md)
-* Conclusion
+* [Conclusion](CONCLUSION.md)
 * Acknowledgements
 * Bibliography
 
