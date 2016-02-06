@@ -29,4 +29,5 @@
 * Adoption: Use cases
    * Agriculture
    * Luxury Assets
+   * Precious Metals
 
