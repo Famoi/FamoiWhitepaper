@@ -2,5 +2,5 @@
 
 * [Abstract](README.md)
 * [Introduction](INTRODUCTION.md)
-   * Motivation
+   * [Motivation](MOTIVATION.md)
 
