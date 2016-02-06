@@ -10,6 +10,6 @@ That records and certifies the provenance of an asset both in real time immutabl
 These require a more secure and permanent way of storing official documents. As well as authenticating the  provenance and the individual proof-of-authenticity and origin of an asset. 
 
 #Your Goal?
-Our goal is to record the world's assets on to the Ethereum blockchain. 
+Our goal is to record the world's assets on to the Ethereum block chain. 
 
 Making it easier to prove authenticity and provenance. And reduce costs. Making it easier to track, protect and pay providers in real-time throughout an asset's journey in its supply chains life-cycle.
