@@ -22,4 +22,5 @@
    * [Supply Chain Tracking](SUPPLY_CHAIN_TRACKING.md)
    * Realtime updates
    * Asset Explorer
+* Gamification: Reputation 
 
