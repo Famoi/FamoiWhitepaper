@@ -2,5 +2,5 @@
 
 * [Abstract](README.md)
 * [Introduction](INTRODUCTION.md)
-   * Why Decentralisation?
+   * [Why Decentralisation?](WHY_DECENTRALISATION.md)
 
