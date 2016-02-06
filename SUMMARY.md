@@ -24,7 +24,7 @@
    * [Asset Explorer](ASSET_EXPLORER.md)
 * [Gamification: Reputation](GAMIFICATION_REPUTATION.md)
    * [Leaderboards](LEADERBOARDS.md)
-   * Rewards
+   * [Rewards](REWARDS.md)
    * Penalties
 * Adoption: Use cases
    * Food and Agriculture
