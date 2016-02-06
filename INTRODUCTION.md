@@ -3,7 +3,7 @@
 
 ###What is it
 
-Asset management and  supply chain automation currently requires a third-party to manage your assets or inventories sign-off. Tracking their shipment performance and protecting their authenticity. 
+Asset management and  supply chain automation currently does not transparently record an asset or inventories provenance. Neither does it autonomously track shipment performance and protect their authenticity.
 
 This we hope to reduce the need for through a platform built for automated asset transactions and certification.  
 
