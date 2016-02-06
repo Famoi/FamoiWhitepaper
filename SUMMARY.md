@@ -12,5 +12,5 @@
    * [Create Asset](CREATE_ASSET.md)
    * [Select Smart Contract](SELECT_SMART_CONTRACT.md)
    * [Asset Documents](ASSET_DOCUMENTS.md)
-   * Asset Provenance
+   * [Asset Provenance](ASSET_PROVENANCE.md)
 
