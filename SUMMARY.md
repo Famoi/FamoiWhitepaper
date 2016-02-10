@@ -35,4 +35,5 @@
 * [Conclusion](CONCLUSION.md)
 * [Acknowledgements](ACKNOWLEDGEMENT.md)
 * [Bibliography](BIBLIOGRAPHY.md)
+* Glossary
 
