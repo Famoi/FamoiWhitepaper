@@ -32,10 +32,29 @@
 
 16. https://bitcoin.org/bitcoin.pdf
 
-17. 
+17. https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/492972/gs-16-1-distributed-ledger-technology.pdf
 
-18.
+18. http://www.slideshare.net/christopherbrewster/20150617-tno
 
-19.
+19. http://www.slideshare.net/christopherbrewster/the-potential-role-of-open-data-in-supply-chain-integration?related=1
+
+20. http://www-935.ibm.com/services/multimedia/GBE03620USEN.pdf
+
+21. http://www.coindesk.com/how-bitcoins-technology-could-make-supply-chains-more-transparent/
+
+22. https://consensys.net/static/Farm.pdf
+
+23. https://www.academia.edu/3525736/Facebook_and_FarmVille_A_Digital_Ritual_Analysi
+s_of_Social_Gaming
+
+24. http://www.augur.link/augur.pdf
+
+25. http://scet.berkeley.edu/wp-content/uploads/BlockchainPaper.pdf
+
+26. file:///Users/apple/Downloads/wef-white-paper-2016%20(1).pdf
+
+27. file:///Users/apple/Downloads/jsan-04-00002.pdf 
+25. 
+
 
 
