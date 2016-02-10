@@ -89,6 +89,18 @@ s_of_Social_Gaming
 
 41. http://www.deloitte.co.uk/makeconnections/assets/pdf/path-to-supply-chain-transparency.pdf
 
+42. http://www.pwc.nl/nl/assets/documents/pwc-food-supply-and-integrity-services.pdf
+
+43. http://siteresources.worldbank.org/EXTINFORMATIONANDCOMMUNICATIONANDTECHNOLOGIES/Resources/282822-1346223280837/Agriculture_FullReport.pdf
+
+44. https://www2.deloitte.com/content/dam/Deloitte/ie/Documents/ConsumerBusiness/2015-Deloitte-Ireland-Food_Value_Chain.pdf
+
+45. http://wwwnc.cdc.gov/eid/article/5/5/99-0502_article#overallfood-relatedillnessanddeath
+
+46. http://www.transparency.ee/cm/files/global_corruption_report_climate_change_english_0.pdf
+
+47. 
+
 
 
 
