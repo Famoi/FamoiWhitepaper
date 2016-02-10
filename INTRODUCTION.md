@@ -3,11 +3,11 @@
 
 ###What is it
 
-Asset management and  supply chain automation currently does not transparently record an asset or inventories provenance. Neither does it autonomously track shipment performance and protect their authenticity.
+Asset management and  supply chain automation currently does not transparently record an asset or product provenance. Neither does it autonomously track shipment performance and protect their authenticity.
 
 This we hope to reduce the need for through a platform built for automated asset transactions and certification.  
 
-With the aim being to achieve the development of an opensource infrastructure that is part of a decentralised autonomous organisation.  
+With the aim being to achieve the development of an opensource infrastructure that is part of a decentralised autonomous organisation. 
 
 That records and certifies the provenance of an asset both in real time immutably through the supply chain to manually and autonomously recording assets like art, antiquities and jewellery. That may contain vast  histories of  owners, valuers, advisor's and documentation of exhibitions. 
 
