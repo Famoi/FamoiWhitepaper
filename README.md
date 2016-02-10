@@ -2,7 +2,7 @@
 
 
 
-####Famoi: A decentralised platform for recording and certifying asset or inventory provenance
+####Famoi: A decentralised platform for recording and certifying asset or product provenance
 
 
 To begin reading please refer to our [GitBook page here](https://duncanaforbes.gitbooks.io/famoi-whitepaper/content/). We're consistently and openly working on / updating the Whitepaper. At the moment it is fairly bare bone. As we slowly start to publicly draft, edit and contribute it to Famoi's Github. 
