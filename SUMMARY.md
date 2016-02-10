@@ -24,7 +24,7 @@
    * [Asset Explorer](ASSET_EXPLORER.md)
 * [Gamification: Reputation](GAMIFICATION_REPUTATION.md)
    * [Leaderboards](LEADERBOARDS.md)
-   * Certified Badges
+   * [Certified Badges](CERTIFED_BADGES.md)
    * [Rewards](REWARDS.md)
    * [Penalties](PENALTIES.md)
 * [Adoption: Use cases](ADOPTION_USE_CASES.md)
