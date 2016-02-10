@@ -54,7 +54,14 @@ s_of_Social_Gaming
 26. file:///Users/apple/Downloads/wef-white-paper-2016%20(1).pdf
 
 27. file:///Users/apple/Downloads/jsan-04-00002.pdf 
-25. 
+
+25. http://www3.weforum.org/docs/WEF_GAC15_Technological_Tipping_Points_report_2015.pdf
+
+26. https://finanzrecht.univie.ac.at/fileadmin/user_upload/inst_finanzrecht/Veranstaltungen/Bitcoin_Symposium_Bilder_Vortragende/Vortraege/bitsofproof.pdf
+
+27. http://static1.squarespace.com/static/54a2c620e4b0bcb26c2f2788/t/56587232e4b04e8770fec019/1448636978668/Robotics+%26+Automation+in+Indoor+Agriculture+WEB+LOWRES+FINAL.pdf
+
+
 
 
 
