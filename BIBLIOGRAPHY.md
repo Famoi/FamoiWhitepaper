@@ -83,6 +83,14 @@ s_of_Social_Gaming
 
 38. http://www.sickinsight-online.com/a-single-source-for-camera-scanner-and-rfid-technology-finding-the-ideal-auto-ident-solution-with-sick/
 
+39. https://www.sick.com/au/en/track-and-trace-the-vertical-integration-for-industry-40-production-and-logistics-chains-are-growing-together-with-rfid-/w/press-track-trace/
+
+40. http://www.sickinsight-online.com/trispector-3d-image-processing-intuitive-operation/
+
+41. http://www.deloitte.co.uk/makeconnections/assets/pdf/path-to-supply-chain-transparency.pdf
+
+
+
 
 
 
