@@ -97,9 +97,11 @@ s_of_Social_Gaming
 
 45. http://wwwnc.cdc.gov/eid/article/5/5/99-0502_article#overallfood-relatedillnessanddeath
 
-46. http://www.transparency.ee/cm/files/global_corruption_report_climate_change_english_0.pdf
+46. https://www.unodc.org/documents/data-and-analysis/tocta/8.Counterfeit_products.pdf
 
-47. 
+47. http://www.oecd.org/sti/ind/2090589.pdf
+
+48. http://www.economistinsights.com/sites/default/files/FraudReport_English-UK_September07.pdf
 
 
 
