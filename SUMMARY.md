@@ -24,9 +24,9 @@
    * [Asset Explorer](ASSET_EXPLORER.md)
 * [Gamification: Reputation](GAMIFICATION_REPUTATION.md)
    * [Leaderboards](LEADERBOARDS.md)
+   * Certified Badges
    * [Rewards](REWARDS.md)
    * [Penalties](PENALTIES.md)
-   * Certified Badges
 * [Adoption: Use cases](ADOPTION_USE_CASES.md)
    * [Food and Agriculture](FOOD_AND_AGRICULTURE.md)
    * [Valuable Assets](VALUABLE_ASSETS.md)
