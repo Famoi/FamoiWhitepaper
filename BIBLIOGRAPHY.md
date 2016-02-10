@@ -61,6 +61,29 @@ s_of_Social_Gaming
 
 27. http://static1.squarespace.com/static/54a2c620e4b0bcb26c2f2788/t/56587232e4b04e8770fec019/1448636978668/Robotics+%26+Automation+in+Indoor+Agriculture+WEB+LOWRES+FINAL.pdf
 
+28. http://www.sciencedirect.com/science/article/pii/S0956713513000790
+
+29. http://www.transparentfood.eu/data/TFBookDeliv_TransparencyFoodChain_22July2013.pdf
+
+30. http://www.sciencedirect.com/science/article/pii/S1537511013001554
+
+31. http://www.worldtrademarkreview.com/Magazine/Issue/55/Country-correspondents/Opportunity-and-risk-in-the-online-environment
+
+32. http://www.monitor.co.ug/Magazines/Farming/Counterfeit-agro-inputs-high-on-the-market/-/689860/2510874/-/ssay23/-/index.html
+
+33. https://www.sick.com/medias/SICK-Enabling-transparency-in-the-meat-supply-chain.pdf?context=bWFzdGVyfHJvb3R8NzM3OTM1fGFwcGxpY2F0aW9uL3BkZnxoNGIvaGJmLzg4OTE5NTkxMTU4MDYucGRmfDU5MmM1ZjRjOWE4ZWJkZGQ4OGU5NGFmMTQzNzE4OTA5NTRmMmJjYjVmNGMxZmJkZGVkNjZlOTNiMDc3OTk5NDU
+
+34. http://onlinelibrary.wiley.com/doi/10.1111/j.1470-6431.2011.01001.x/abstract?userIsAuthenticated=false&deniedAccessCustomisedMessage=
+
+35. https://www.sick.com/au/en/c/g290775
+
+36. https://www.sick.com/au/en/identification-solutions/rfid/c/g93063
+
+37. https://www.sick.com/au/en/system-solutions/track-and-trace-systems/c/g91874
+
+38. http://www.sickinsight-online.com/a-single-source-for-camera-scanner-and-rfid-technology-finding-the-ideal-auto-ident-solution-with-sick/
+
+
 
 
 
