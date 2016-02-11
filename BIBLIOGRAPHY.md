@@ -109,7 +109,9 @@ s_of_Social_Gaming
 
 51. [Supply Chain in the Pharmaceutical Industry Hardcover – 1 Jan 2010 by Rob Whewell](http://www.amazon.co.uk/Supply-Chain-Pharmaceutical-Industry-Whewell/dp/0566086956/ref=sr_1_3?s=books&ie=UTF8&qid=1455193882&sr=1-3&keywords=Supply+Chain++law)
 
-52. 
+52. https://www.bigchaindb.com/whitepaper/bigchaindb-whitepaper.pdf
+
+54. 
 
 
 
