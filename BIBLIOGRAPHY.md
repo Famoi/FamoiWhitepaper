@@ -107,7 +107,10 @@ s_of_Social_Gaming
 
 50. [Managing Risk and Resilience in the Supply Chain Paperback – 31 May 2008 by David Kaye](http://www.amazon.co.uk/Managing-Risk-Resilience-Supply-Chain/dp/0580607267/ref=sr_1_25?s=books&ie=UTF8&qid=1455193508&sr=1-25&keywords=Supply+Chain++law)
 
-51. 
+51. [Supply Chain in the Pharmaceutical Industry Hardcover – 1 Jan 2010 by Rob Whewell](http://www.amazon.co.uk/Supply-Chain-Pharmaceutical-Industry-Whewell/dp/0566086956/ref=sr_1_3?s=books&ie=UTF8&qid=1455193882&sr=1-3&keywords=Supply+Chain++law)
+
+52. 
+
 
 
 
